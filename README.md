@@ -1,8 +1,8 @@
 # Ex.No:9 Interfacing-Seven-segment-display-with-lpc2148
-
+```
 Name:	Dharani Elango
 Date of experiment:10/11/2022
-
+```
 
 
 
@@ -88,12 +88,12 @@ delay(200);
 
 ##  Output : 
 Before Simulation:
-![o]()
+![o](https://github.com/dharanielango/Interfacing-Seven-segment-display-with-lpc2148/blob/main/3.png)
 After Simulation:
-![o]()
-![o]()
+![o](https://github.com/dharanielango/Interfacing-Seven-segment-display-with-lpc2148/blob/main/1.png)
+![o](https://github.com/dharanielango/Interfacing-Seven-segment-display-with-lpc2148/blob/main/2.png)
 Circuit Diagram:
-![o]()
+![o](https://github.com/dharanielango/Interfacing-Seven-segment-display-with-lpc2148/blob/main/4.png)
 
 ## Result :
 LED seven segment display is interfaced and displayed alpha numeric characters 
